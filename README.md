@@ -1,1 +1,1 @@
-# tekton-windows-pipeline
+# Tekton Windows Pipeline
